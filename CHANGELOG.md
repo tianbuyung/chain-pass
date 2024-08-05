@@ -1,3 +1,11 @@
+# [0.4.0](https://github.com/tianbuyung/trust-pass/compare/v0.3.0...v0.4.0) (2024-08-05)
+
+
+### Features
+
+* **web3:** add RainbowKit, Wagmi, Viem, React Query ([37fdb83](https://github.com/tianbuyung/trust-pass/commit/37fdb83e37326216469c2daa9fd2430e5e6f24c4))
+* **web3:** setup wagmi config, update next.js and create connect wallet modal ([7e0c170](https://github.com/tianbuyung/trust-pass/commit/7e0c170817ec99cd0f5cbb645d6c336ed1ab138f))
+
 # [0.3.0](https://github.com/tianbuyung/trust-pass/compare/v0.2.0...v0.3.0) (2024-08-02)
 
 
